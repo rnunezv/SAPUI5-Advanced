@@ -14,15 +14,15 @@ sap.ui.define([
                 properties: {
                     "width": {
                         type: "sap.ui.core.CSSSize",
-                        defautValue: "400px"
+                        defaultValue: "400px"
                     },
                     "height": {
                         type: "sap.ui.core.CSSSize",
-                        defautValue: "100px"
+                        defaultValue: "100px"
                     },
                     "bgcolor": {
                         type: "sap.ui.core.CSSColor",
-                        defautValue: "white"
+                        defaultValue: "white"
                     }
                 }
             },
